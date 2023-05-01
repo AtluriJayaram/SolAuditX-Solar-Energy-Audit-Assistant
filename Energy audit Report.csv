@@ -1,0 +1,24 @@
+Serial No.,Appliance Name,Quantity,Power Rating (W),Usage per day (hours),Power per day (kWh),Power per month (kWh),Power per year (kWh)
+1,Led Lamps,6.0 units,10.0 W,8.0 hours,0.48 kWh,14.40 kWh,175.20 kWh
+2,Bulbs,2.0 units,100.0 W,3.0 hours,0.60 kWh,18.00 kWh,219.00 kWh
+3,Led TV,2.0 units,80.0 W,3.0 hours,0.48 kWh,14.40 kWh,175.20 kWh
+4,Fans,3.0 units,70.0 W,2.0 hours,0.42 kWh,12.60 kWh,153.30 kWh
+5,Dish Wash,1.0 units,1200.0 W,0.5 hours,0.60 kWh,18.00 kWh,219.00 kWh
+6,Fridge,1.0 units,350.0 W,10.0 hours,3.50 kWh,105.00 kWh,1277.50 kWh
+7,AC,2.0 units,1100.0 W,6.0 hours,13.20 kWh,396.00 kWh,4818.00 kWh
+8,Washing Machine,1.0 units,500.0 W,0.5 hours,0.25 kWh,7.50 kWh,91.25 kWh
+9,Wifi Router,1.0 units,10.0 W,24.0 hours,0.24 kWh,7.20 kWh,87.60 kWh
+10,Kitchen APL,1.0 units,1000.0 W,3.0 hours,3.00 kWh,90.00 kWh,1095.00 kWh
+11,Miscl,1.0 units,20.0 W,12.0 hours,0.24 kWh,7.20 kWh,87.60 kWh
+#,TOTAL:,,,,23.01 kWh,690.30 kWh,8398.65 kWh
+ENERGY POTENTIAL DETAILS:
+Solar energy potential for today: 399.16 kWh/m^2
+Total peak sun hours for today: 6.12 hours
+Average daily peak sun hours so far this month: 0.21 hours
+SOLAR PANEL DETAILS:
+Optimal tilt angle for winter: 48.44 degrees
+Optimal tilt angle for summer: 18.44 degrees
+Orientation: south
+""
+Number of solar panels required: ,16
+Minimum battery capacity needed to store the energy needed: ,10717,Ah
